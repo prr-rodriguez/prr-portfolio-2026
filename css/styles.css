@@ -1,0 +1,58 @@
+.name {
+color: #cb7950;
+font-family: "Montserrat";
+font-weight: 500;
+font-size: 30px;
+padding-left: 24px;
+}
+  
+.description {
+color: #000000;
+font-family: "Montserrat";
+font-weight: lighter;
+font-style: italic;
+font-size: 18px;
+}
+
+._assignment {
+color: #cb7950;
+font-family: "Raleway";
+font-weight: 200;
+font-size: 50px;
+padding-bottom: 36px;
+}
+
+._assignment-description {
+  display:inline-block;
+  color: #000000;
+  font-family: "Montserrat";
+  font-weight: 100;
+  font-size: 25px;
+  padding-left: 12px;
+  padding-bottom: 50px;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding-top: 34px;
+  padding-left: 30px;
+  padding-bottom: 48px;
+}
+
+.raleway-font {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.montserrat-font {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
